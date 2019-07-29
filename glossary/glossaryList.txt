@@ -12,7 +12,7 @@
   "Merit": "Merits are special abilities or advantages that are rare or unique in the general Kindred population that you can choose at character creation. They cost creation points equal to the number associated with them.",
   "Name": "The name should be your character's name, or whatever other characters will refer to your character as.",
   "Nature": "A Vampire's Nature is their true self, their innermost being — the person they truly are. It is dangerous to show this, though, as it lets others know who we are and what is important to us.",
-  "Player": "The player is you. Fill in your name or whatever people may refer to you as.",
+  "Player": "Игрок это ты. Укажите свое имя или что-то еще, что люди могут обращаться к тебе.",
   "Sire": "A vampire’s \"parent\"; the Kindred who created them.",
  },
  "Attributes",
